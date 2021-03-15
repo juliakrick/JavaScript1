@@ -8,4 +8,4 @@
 let degreeCelsius = +prompt('Введите температуру в градусах Цельсия: ')
 let degreeFahrenheit = (9 / 5) * degreeCelsius + 32;
 alert(degreeFahrenheit)
-debugger
+
